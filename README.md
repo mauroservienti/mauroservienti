@@ -7,9 +7,9 @@ When he is not busy with distributed systems he loves to go back to one of his f
 ## Latest blog posts
 
 <!--START_SECTION:feed-->
+* [AsyncAPI, a specification for defining asynchronous APIs](https:&#x2F;&#x2F;milestone.topics.it&#x2F;2022&#x2F;02&#x2F;23&#x2F;asyncapi-tool-in-our-toolbox.html)
 * [When too many choices are harmful](https:&#x2F;&#x2F;milestone.topics.it&#x2F;2022&#x2F;02&#x2F;15&#x2F;when-too-many-choices-are-harmful.html)
 * [Let&#39;s get logical! On logical and physical architectural views](https:&#x2F;&#x2F;milestone.topics.it&#x2F;2022&#x2F;01&#x2F;25&#x2F;lets-get-logical.html)
 * [We&#39;re too stressed about (vendor) lock-in](https:&#x2F;&#x2F;milestone.topics.it&#x2F;2022&#x2F;01&#x2F;17&#x2F;too-stressed-about-vendor-lock-in.html)
 * [I&#39;m lazy, I have a checklist for everything](https:&#x2F;&#x2F;milestone.topics.it&#x2F;2022&#x2F;01&#x2F;10&#x2F;lazy-check-list-for-everything.html)
-* [Is it complex? Break it down!](https:&#x2F;&#x2F;milestone.topics.it&#x2F;2022&#x2F;01&#x2F;03&#x2F;is-it-complex-break-it-down.html)
 <!--END_SECTION:feed-->
