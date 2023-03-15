@@ -7,9 +7,9 @@ When he is not busy with distributed systems he loves to go back to one of his f
 ## Latest blog posts
 
 <!--START_SECTION:feed-->
+* [How many (micro)services do I need?](https:&#x2F;&#x2F;milestone.topics.it&#x2F;2023&#x2F;03&#x2F;15&#x2F;how-many-services.html)
 * [What&#39;s an Outbox and why do we need it? Hint: it&#39;s about data integrity](https:&#x2F;&#x2F;milestone.topics.it&#x2F;2023&#x2F;02&#x2F;07&#x2F;outbox-what-and-why.html)
 * [The pitfalls of request&#x2F;response over messaging](https:&#x2F;&#x2F;milestone.topics.it&#x2F;2023&#x2F;01&#x2F;19&#x2F;pitfalls-of-request-response-over-messaging.html)
 * [An iPad as a developer box. Pros and cons](https:&#x2F;&#x2F;milestone.topics.it&#x2F;2023&#x2F;01&#x2F;12&#x2F;develop-on-ipad.html)
 * [What is the deal with security and distributed systems?](https:&#x2F;&#x2F;milestone.topics.it&#x2F;2022&#x2F;11&#x2F;01&#x2F;security-and-soa.html)
-* [Lifehacking 101: One to-do list to rule &#39;em all](https:&#x2F;&#x2F;milestone.topics.it&#x2F;2022&#x2F;09&#x2F;19&#x2F;one-list-to-rule-them-all.html)
 <!--END_SECTION:feed-->
