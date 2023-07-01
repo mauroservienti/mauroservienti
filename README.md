@@ -7,9 +7,9 @@ When he is not busy with distributed systems he loves to go back to one of his f
 ## Latest blog posts
 
 <!--START_SECTION:feed-->
+* [The guilt that comes with flexible working hours](https:&#x2F;&#x2F;milestone.topics.it&#x2F;2023&#x2F;06&#x2F;30&#x2F;guilty-feeling.html)
 * [What if my command was rejected?](https:&#x2F;&#x2F;milestone.topics.it&#x2F;2023&#x2F;06&#x2F;27&#x2F;reject-commands.html)
 * [Back to Basics: commands, events, and messages](https:&#x2F;&#x2F;milestone.topics.it&#x2F;2023&#x2F;05&#x2F;25&#x2F;back-to-basics-messages.html)
 * [Back to Basics: service boundaries, autonomous components, and coupling](https:&#x2F;&#x2F;milestone.topics.it&#x2F;2023&#x2F;05&#x2F;17&#x2F;back-to-basics-boundaries.html)
 * [How many (micro)services do I need?](https:&#x2F;&#x2F;milestone.topics.it&#x2F;2023&#x2F;03&#x2F;15&#x2F;how-many-services.html)
-* [What&#39;s an Outbox and why do we need it? Hint: it&#39;s about data integrity](https:&#x2F;&#x2F;milestone.topics.it&#x2F;2023&#x2F;02&#x2F;07&#x2F;outbox-what-and-why.html)
 <!--END_SECTION:feed-->
