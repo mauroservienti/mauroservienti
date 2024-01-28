@@ -7,9 +7,9 @@ When he is not busy with distributed systems he loves to go back to one of his f
 ## Latest blog posts
 
 <!--START_SECTION:feed-->
+* [I gotta tell you: CQRS doesn&#39;t imply Event Sourcing](https:&#x2F;&#x2F;milestone.topics.it&#x2F;2024&#x2F;01&#x2F;27&#x2F;cqrs-and-es.html)
 * [Mattox: simple, pre-configured NServiceBus endpoints](https:&#x2F;&#x2F;milestone.topics.it&#x2F;2024&#x2F;01&#x2F;08&#x2F;mattox-endpoints.html)
 * [Compensation is all around us](https:&#x2F;&#x2F;milestone.topics.it&#x2F;2023&#x2F;11&#x2F;28&#x2F;compensation.html)
 * [Define messages as POCO, interfaces, or records. Does it really matter?](https:&#x2F;&#x2F;milestone.topics.it&#x2F;2023&#x2F;10&#x2F;31&#x2F;defining-messages.html)
 * [The power of timeouts to compensate for failures and other tales](https:&#x2F;&#x2F;milestone.topics.it&#x2F;2023&#x2F;10&#x2F;18&#x2F;timeouts-power.html)
-* [Append-only models: The why, the when, and the how](https:&#x2F;&#x2F;milestone.topics.it&#x2F;2023&#x2F;09&#x2F;22&#x2F;append-only.html)
 <!--END_SECTION:feed-->
