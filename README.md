@@ -13,3 +13,7 @@ When he is not busy with distributed systems he loves to go back to one of his f
 * [A small ServiceControl maintenance utility](https:&#x2F;&#x2F;milestone.topics.it&#x2F;2024&#x2F;04&#x2F;09&#x2F;service-control-ghost-endpoints.html)
 * [Someone says event, and magically, coupling goes away](https:&#x2F;&#x2F;milestone.topics.it&#x2F;2024&#x2F;02&#x2F;16&#x2F;events-magic.html)
 <!--END_SECTION:feed-->
+
+## Advanced Distributed Systems Design – Resources & Further Reading
+
+A curated collection of resources aligned with the concepts and paradigms taught in Udi Dahan’s Advanced Distributed Systems Design course. Organized by topic area for easy reference and deeper exploration: <https://milestone.topics.it/resources/adsd/>.
