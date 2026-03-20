@@ -7,11 +7,11 @@ When he is not busy with distributed systems, he loves to go back to one of his 
 ## Latest blog posts
 
 <!--START_SECTION:feed-->
+* [I&#39;m sorry. Your emergencies are not my problems, at least not now](https:&#x2F;&#x2F;milestone.topics.it&#x2F;2026&#x2F;03&#x2F;19&#x2F;your-emergencies-not-my-problems.html)
 * [ServiceComposer 5.1 scatter&#x2F;gather support](https:&#x2F;&#x2F;milestone.topics.it&#x2F;2026&#x2F;03&#x2F;12&#x2F;scatter-gather.html)
 * [NServiceBus.IntegrationTesting 3 — A new container-based architecture](https:&#x2F;&#x2F;milestone.topics.it&#x2F;2026&#x2F;03&#x2F;06&#x2F;integration-testing-3.html)
 * [I tried vibe-coding. It’s cool, indeed, but is it doomsday?](https:&#x2F;&#x2F;milestone.topics.it&#x2F;2026&#x2F;02&#x2F;11&#x2F;vibe-coding.html)
 * [ServiceComposer contract-less composition request handlers](https:&#x2F;&#x2F;milestone.topics.it&#x2F;2025&#x2F;04&#x2F;23&#x2F;contract-less-handlers.html)
-* [All the new goodies in ServiceComposer](https:&#x2F;&#x2F;milestone.topics.it&#x2F;2025&#x2F;01&#x2F;08&#x2F;all-new-goodies-in-servicecomposer.html)
 <!--END_SECTION:feed-->
 
 ## Advanced Distributed Systems Design – Resources & Further Reading
