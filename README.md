@@ -7,11 +7,11 @@ When he is not busy with distributed systems, he loves to go back to one of his 
 ## Latest blog posts
 
 <!--START_SECTION:feed-->
+* [Seven emails later: duplicate messages are not a theoretical problem](https:&#x2F;&#x2F;milestone.topics.it&#x2F;2026&#x2F;10&#x2F;24&#x2F;seven-emails-duplicate-messages.html)
 * [I built a Node.js library over a weekend. I don&#39;t know Node.js](https:&#x2F;&#x2F;milestone.topics.it&#x2F;2026&#x2F;10&#x2F;21&#x2F;zusammen.html)
 * [ServiceComposer 5.2 OpenTelemetry support](https:&#x2F;&#x2F;milestone.topics.it&#x2F;2026&#x2F;05&#x2F;15&#x2F;service-composer-telemetry.html)
 * [I&#39;m sorry. Your emergencies are not my problems, at least not now](https:&#x2F;&#x2F;milestone.topics.it&#x2F;2026&#x2F;03&#x2F;19&#x2F;your-emergencies-not-my-problems.html)
 * [ServiceComposer 5.1 scatter&#x2F;gather support](https:&#x2F;&#x2F;milestone.topics.it&#x2F;2026&#x2F;03&#x2F;12&#x2F;scatter-gather.html)
-* [NServiceBus.IntegrationTesting 3 — A new container-based architecture](https:&#x2F;&#x2F;milestone.topics.it&#x2F;2026&#x2F;03&#x2F;06&#x2F;integration-testing-3.html)
 <!--END_SECTION:feed-->
 
 ## Advanced Distributed Systems Design – Resources & Further Reading
