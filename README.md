@@ -7,11 +7,11 @@ When he is not busy with distributed systems, he loves to go back to one of his 
 ## Latest blog posts
 
 <!--START_SECTION:feed-->
+* [Back to Basics: who owns the data?](https:&#x2F;&#x2F;milestone.topics.it&#x2F;2026&#x2F;11&#x2F;09&#x2F;back-to-basics-data-ownership.html)
 * [What I&#39;m sure of is that it&#39;s distributed last](https:&#x2F;&#x2F;milestone.topics.it&#x2F;2026&#x2F;11&#x2F;05&#x2F;distributed-last.html)
 * [Will AI eat our jobs, or multiply them? Yes](https:&#x2F;&#x2F;milestone.topics.it&#x2F;2026&#x2F;11&#x2F;02&#x2F;ai-eats-or-amplifies.html)
 * [ServiceComposer: how do strongly-typed models affect composition and decomposition?](https:&#x2F;&#x2F;milestone.topics.it&#x2F;2026&#x2F;10&#x2F;28&#x2F;servicecomposer-strongly-typed-models.html)
 * [Seven emails later: duplicate messages are not a theoretical problem](https:&#x2F;&#x2F;milestone.topics.it&#x2F;2026&#x2F;10&#x2F;24&#x2F;seven-emails-duplicate-messages.html)
-* [I built a Node.js library over a weekend. I don&#39;t know Node.js](https:&#x2F;&#x2F;milestone.topics.it&#x2F;2026&#x2F;10&#x2F;21&#x2F;zusammen.html)
 <!--END_SECTION:feed-->
 
 ## Advanced Distributed Systems Design – Resources & Further Reading
