@@ -7,11 +7,11 @@ When he is not busy with distributed systems, he loves to go back to one of his 
 ## Latest blog posts
 
 <!--START_SECTION:feed-->
+* [Idempotent, you must be. A deep dive into idempotency](https://milestone.topics.it/2026/11/26/idempotency-deep-dive.html)
 * [Under pressure: when the tool is faster than my brain](https://milestone.topics.it/2026/11/24/brain-is-the-bottleneck.html)
 * [From controllers to ServiceComposer, one route at a time](https://milestone.topics.it/2026/11/17/controllers-to-servicecomposer.html)
 * [Back to Basics: who owns the data?](https://milestone.topics.it/2026/11/09/back-to-basics-data-ownership.html)
 * [What I'm sure of is that it's distributed last](https://milestone.topics.it/2026/11/05/distributed-last.html)
-* [Will AI eat our jobs, or multiply them? Yes](https://milestone.topics.it/2026/11/02/ai-eats-or-amplifies.html)
 <!--END_SECTION:feed-->
 
 ## Advanced Distributed Systems Design – Resources & Further Reading
